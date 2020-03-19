@@ -16,7 +16,7 @@ Sounds interesting ? If yes, just follow some simple steps below to create your 
 Building QnA bot is extremely easy and you indeed can enable access to your knowledge base via bot in minutes.
 1. First of all, open [QnA Maker Web site](https://www.qnamaker.ai/), sign-in with your Microsoft account and then click "Create a knowledge base" option;
 ![Step1.1](/images/step1_1.png)
-2. Next, click "Create a QnA service" button as shown below;
+2. Next, click "Create a QnA service" button in "Step 1" as shown below;
 ![Step1.2](/images/step1_2.png)
 3. You will be re-directed to your Azure subscription. Fill in the template form, and make sure to set pricing tier for "QnA Maker service" to **F0**, and for the supporting Azure Search service to **F**, if you want to host your Bot components for **free**. Then click "Create" button;
 ![Step1.3](/images/step1_3.png)
@@ -24,7 +24,9 @@ Building QnA bot is extremely easy and you indeed can enable access to your know
 ![Step1.4](/images/step1_4.png)
 5. By default, App service plan for the Web component is set to a chargeable S1 pricing tier. To switch to the free pricing tier, open your app service plan (you can find it by the resource type in your resource group), select "Scale Up (App Service plan)" on the left navigation bar, click "Dev/Test" tab, select **F1** pricing tier and then click "Apply button as shown below;
 ![Step1.5](/images/step1_5.png)
-6. 
+6. Now, return to our QnA Maker Web site and click "Refresh" button in "Step 2";
+![Step1.6](/images/step1_6.png)
+7. 
 
 ## Embed your bot into Web site
 
