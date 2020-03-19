@@ -22,6 +22,9 @@ Building QnA bot is extremely easy and you indeed can enable access to your know
 ![Step1.3](/images/step1_3.png)
 4. Azure will start deployment of the relevant resources in your target resource group. If successful, you should get notification similar to this;
 ![Step1.4](/images/step1_4.png)
+5. By default, App service plan for the Web component is set to a chargeable S1 pricing tier. To switch to the free pricing tier, open your app service plan (you can find it by the resource type in your resource group), select "Scale Up (App Service plan)" on the left navigation bar, click "Dev/Test" tab, select **F1** pricing tier and then click "Apply button as shown below;
+![Step1.5](/images/step1_5.png)
+6. 
 
 ## Embed your bot into Web site
 
