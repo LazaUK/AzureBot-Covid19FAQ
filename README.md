@@ -28,9 +28,11 @@ Building QnA bot is extremely easy and you indeed can enable access to your know
 ![Step1.6](/images/step1_6.png)
 7. Once refreshed, you should be able to find your newly created QnA Maker service in the right Azure subscription. Also, you can select now the target language for your QnA service (set to "English" in example below);
 ![Step1.7](/images/step1_7.png)
-8. Give a meaningful name to your Knowledge Base in "Step 3";
+8. Give a meaningful name to your Knowledge Base (KB) in "Step 3";
 ![Step1.8](/images/step1_8.png)
-9. 
+9. In "Step 4" you can specify sources to feed your knowledge base. It can be populated from Web sites (containing FAQ), uploaded from files (e.g., in PDF, MS Word, MS Excel, etc. formats) or typed manually. For this example, I'm populating my KB with Covid-19 FAQs from the [World Health Organisation](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses) and [UK National Health Service (NHS) Trust](https://www.ulh.nhs.uk/covid-19-latest-staff-updates-and-faqs/) Web sites;
+![Step1.9](/images/step1_9.png)
+10. 
 
 ## Embed your bot into Web site
 
