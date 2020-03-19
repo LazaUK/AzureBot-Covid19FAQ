@@ -5,7 +5,7 @@ With certain cities or even countries now in a lockdown mode, more and more peop
 
 Chatbot is a paltform which can be particularly useful here. You can select specific sources to feed its knowledge base. Make your bot operate 24 x 7. Support multiple languages. And easily activate relevant channel, to enable communication in the platform of your user's choice: be it Web interface, MS Teams, Slack, Telegram or something else.
 
-Sounds interesting ? If yes, just follow some simple steps below to create your own Bot, train it on the frequently asked questions (FAQ) from the leading health organisations and make it work then on your external Web site (with demo Web site provided) and internal MS Teams chats.
+Sounds interesting ? If yes, just follow some simple steps below to create your own bot, train it on the frequently asked questions (FAQ) from the leading health organisations and make it then work on your external Web site (with template for a demo Web site provided) and internal MS Teams chats.
 <p align="center">
   <img src="/images/chatbot.png">
 </p>
