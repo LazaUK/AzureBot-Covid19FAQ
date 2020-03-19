@@ -14,7 +14,8 @@ Sounds interesting ? If yes, just follow some simple steps below to create your 
 
 ## Covd-19 FAQ bot in minutes:
 Building QnA bot is extremely easy and you indeed can enable access to your knowledge base via bot in minutes.
-1. First of all, open [QnA Maker](https://www.qnamaker.ai/) Web site, sign-in with your Microsoft account and then click "Create a knowledge base" option;
+1. First of all, open [QnA Maker Web site](https://www.qnamaker.ai/), sign-in with your Microsoft account and then click "Create a knowledge base" option;
+![Step1.1](/images/step1_1.png)
 2. F
 
 ## Embed your bot into Web site
