@@ -20,7 +20,8 @@ Building QnA bot is extremely easy and you indeed can enable access to your know
 ![Step1.2](/images/step1_2.png)
 3. You will be re-directed to your Azure subscription. Fill in the template form, and make sure to set pricing tier for "QnA Maker service" to **F0**, and for the supporting Azure Search service to **F**, if you want to host your Bot components for **free**. Then click "Create" button;
 ![Step1.3](/images/step1_3.png)
-4. 
+4. Azure will start deployment of the relevant resources in your target resource group. If successful, you should get notification similar to this;
+![Step1.4](/images/step1_4.png)
 
 ## Embed your bot into Web site
 
