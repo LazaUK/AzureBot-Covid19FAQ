@@ -1,4 +1,4 @@
-# QnA Bot, to support your team with the latest answers on the vital topics of interest
+# QnA Bot, to support your team with the latest answers on the vital topics of interest. Costing you nothing!
 With coronavirus pandemic now spreading across the world and, unfortunately, claiming human lives, it's really vital to provide people with the up-to-date information on the latest learnings and recommendations from the reliable health authority sources.
 
 With certain cities or even countries now in a lockdown mode, more and more people start to practice social distancing and work from home. Social anxiety and new ways of working can be challenging during periods of uncertainty. So, affected or worried people may require advice on how to stay healthy (physically and methally), while being isolated.
@@ -17,8 +17,10 @@ Building QnA bot is extremely easy and you indeed can enable access to your know
 1. First of all, open [QnA Maker Web site](https://www.qnamaker.ai/), sign-in with your Microsoft account and then click "Create a knowledge base" option;
 ![Step1.1](/images/step1_1.png)
 2. Next, click "Create a QnA service" button as shown below;
-![Step1.1](/images/step1_2.png)
-3.
+![Step1.2](/images/step1_2.png)
+3. You will be re-directed to your Azure subscription. Fill in the template form, and make sure to set pricing tier for "QnA Maker service" to **F0**, and for the supporting Azure Search service to **F**, if you want to host your Bot components for **free**. Then click "Create" button;
+![Step1.3](/images/step1_3.png)
+4. 
 
 ## Embed your bot into Web site
 
