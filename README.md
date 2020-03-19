@@ -36,7 +36,8 @@ Building QnA bot is extremely easy and you indeed can enable access to your know
 ![Step1.9](/images/step1_9.png)
 10. In "chit-chat" section you may choose "personality" for your bot, so that it can answer some additional small talk questions. This will enrich your KB with additional question/answer details, so you bot may respond to various greetings, as an example;
 ![Step1.10](/images/step1_10.png)
-11. 
+11. Now, in "Step 5" you can click "Create your KB" button, to setup your knowledge base and populate it with the data from the configured sources;
+![Step1.11](/images/step1_11.png)
 
 ## Embed your bot into Web site
 
