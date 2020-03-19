@@ -12,9 +12,9 @@ Sounds interesting ? If yes, just follow some simple steps below to create your 
 
 > **Note**: Solution described here requires access to an Azure subscription. Microsoft Azure is one of many cloud platfoms, offering chatbot building and hosting capabilities. Depending on your preferences and access options, as an alternative, you may build similar solutions on top of Amazon's AWS or Google's GCP platforms as well.
 
-## QnA Maker - "From data to bot in minutes":
-
-1. I [Jetson Store](https://www.nvidia.com/en-gb/autonomous-machines/jetson-store/);
+## Covd-19 FAQ bot in minutes:
+Building QnA bot is extremely easy and you indeed can enable access to your knowledge base via bot in minutes.
+1. First of all, open [QnA Maker](https://www.qnamaker.ai/) Web site, sign-in with your Microsoft account and then click "Create a knowledge base" option;
 2. F
 
 ## Embed your bot into Web site
