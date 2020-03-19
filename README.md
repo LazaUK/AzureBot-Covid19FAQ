@@ -1,14 +1,13 @@
 # QnA Bot, to support your team with the latest answers on the vital topics of interest
-NVIDIA Jetson Nano Developer Kit is a compact, yet powerful computer equipped with a GPU (Graphics Processing Unit), capable of running Machine Learning models at the edge.
+With coronavirus pandemic now spreading around the world and, unfortunately, claiming human lives, it's really vital to provide people with the up-to-date information on the learnings and recommendations from the reliable sources.
 
-Here I'll show how you can easily train your Machine Learning model in the cloud using Google's Teachable Machine Web site, then bring it over to NVIDIA Jetson Nano and execute locally.
+With certain cities or even countries in a lockdown, more and more people start to practice social distancing and work from home. Social anxiety, new ways of working - all of these may be challenging during such a difficult time. And many affected or worried people want to get the answers on how to stay physically and methally healthy while being isolated.
+
 <p align="center">
   <img src="/images/JetsonNano_DevKit.jpg" width="300">
 </p>
 
-As a further enhancement, you may transfer some of the findings back to your backend of choice (in my case - Microsoft Azure) to store it in a target data store for the future reference or visualise collected data real time in a dashboard.
-
-> **Potential areas of implementation**: Imagine a production line equipped with the camera and Jetson Nano -like processing unit. If trained to recognise standard and defective versions of the product, this may easily automate the quality control process. Or you can monitor availability of the products on the shelves to re-order them when needed. Or detect anomalies in the working engine's sound as the system may sense the changes in the audio signal. And so on and on and on: anywhere you have patterns, such smart solution can help to detect potential deviations to report or react to.
+> **Note**: Solution described here requires access to the Azure subscription. Microsoft Azure is one of many cloud platfoms, offering chatbot building and hosting capabilities. Depending on your preferences and access options, you may build similar solutions on Amazon's AWS or Google's GCP platforms.
 
 ## Jetson Nano setup:
 1. If you have not purchased NVIDIA Jetson Nano Developer Kit yet, you can order one from the [Jetson Store](https://www.nvidia.com/en-gb/autonomous-machines/jetson-store/);
