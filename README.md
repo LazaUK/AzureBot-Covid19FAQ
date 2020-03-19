@@ -16,7 +16,9 @@ Sounds interesting ? If yes, just follow some simple steps below to create your 
 Building QnA bot is extremely easy and you indeed can enable access to your knowledge base via bot in minutes.
 1. First of all, open [QnA Maker Web site](https://www.qnamaker.ai/), sign-in with your Microsoft account and then click "Create a knowledge base" option;
 ![Step1.1](/images/step1_1.png)
-2. F
+2. Next, click "Create a QnA service" button as shown below;
+![Step1.1](/images/step1_2.png)
+3.
 
 ## Embed your bot into Web site
 
