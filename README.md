@@ -7,6 +7,7 @@ tt
 <p align="center">
   <img src="/images/chatbot.png">
 </p>
+
 > **Note**: Solution described here requires access to the Azure subscription. Microsoft Azure is one of many cloud platfoms, offering chatbot building and hosting capabilities. Depending on your preferences and access options, you may build similar solutions on Amazon's AWS or Google's GCP platforms.
 
 ## Jetson Nano setup:
