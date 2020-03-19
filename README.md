@@ -3,7 +3,7 @@ With coronavirus pandemic now spreading across the world and, unfortunately, cla
 
 With certain cities or even countries now in a lockdown mode, more and more people start to practice social distancing and work from home. Social anxiety and new ways of working can be challenging during periods of uncertainty. So, affected or worried people may require advice on how to stay healthy (physically and methally), while being isolated.
 
-Chatbot is a paltform which can be particularly useful here. You can select specific sources to feed its knowledge base. Make your bot operate 24 x 7. Support multiple languages. And easily activate relevant channel, to enable communication in the platform of your user's choice: be it Web interface, MS Teams, Slack, Telegram or something else.
+Chatbot is a paltform which can be particularly useful here. You can select specific sources to feed its knowledge base. Make your bot operate 24 x 7. Support multiple languages. And easily activate relevant channels, to communicate with your users in the apps of their choice: be it Web interface, MS Teams, Slack, Telegram or something else.
 
 Sounds interesting ? If yes, just follow some simple steps below to create your own bot, train it on the frequently asked questions (FAQ) from the leading health organisations and make it then work on your external Web site (with template for a demo Web site provided) and internal MS Teams chats.
 <p align="center">
