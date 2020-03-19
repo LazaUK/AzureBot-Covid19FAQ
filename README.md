@@ -1,7 +1,9 @@
+# QnA Bot, to support your team with the latest answers on the vital topics of interest. Costing you nothing, i.e. gratis!
+
 <p align="center">
   <img src="/images/chatbot.png">
 </p>
-# QnA Bot, to support your team with the latest answers on the vital topics of interest. Costing you nothing, i.e. gratis!
+
 With coronavirus pandemic now spreading across the world and, unfortunately, claiming human lives, it's really vital to provide people with the up-to-date information on the latest learnings and recommendations from the reliable health authority sources.
 
 With certain cities or even countries now in a lockdown mode, more and more people start to practice social distancing and work from home. Social anxiety and new ways of working can be challenging during periods of uncertainty. So, affected or worried people may require advice on how to stay healthy (physically and methally), while being isolated.
