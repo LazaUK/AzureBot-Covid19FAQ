@@ -28,7 +28,9 @@ Building QnA bot is extremely easy and you indeed can enable access to your know
 ![Step1.6](/images/step1_6.png)
 7. Once refreshed, you should be able to find your newly created QnA Maker service in the right Azure subscription. Also, you can select now the target language for your QnA service (set to "English" in example below);
 ![Step1.7](/images/step1_7.png)
-8.
+8. Give a meaningful name to your Knowledge Base in "Step 3";
+![Step1.8](/images/step1_8.png)
+9. 
 
 ## Embed your bot into Web site
 
