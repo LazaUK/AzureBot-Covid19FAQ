@@ -12,7 +12,7 @@ Sounds interesting ? If yes, just follow some simple steps below to create your 
 
 > **Note**: Solution described here requires access to an Azure subscription. Microsoft Azure is one of many cloud platfoms, offering chatbot building and hosting capabilities. Depending on your preferences and access options, as an alternative, you may build similar solutions on top of Amazon's AWS or Google's GCP platforms as well.
 
-## Covd-19 FAQ bot in minutes:
+## Covid-19 FAQ bot in minutes:
 Building QnA bot is extremely easy and you indeed can enable access to your knowledge base via bot in minutes.
 1. First of all, open [QnA Maker Web site](https://www.qnamaker.ai/), sign-in with your Microsoft account and then click "Create a knowledge base" option;
 ![Step1.1](/images/step1_1.png)
