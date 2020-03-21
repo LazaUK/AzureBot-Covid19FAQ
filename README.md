@@ -66,6 +66,7 @@ Building QnA bot is extremely easy and you indeed can enable access to your know
 
 17. Once Web App Bot is deployed in Azure, you may verify its functionality by selecting "Test in Web Chat" in the left navigation bar and then typing your messages in the Test window.
 ![Step1.17](/images/step1_17.png)
+
 If you get replies similar to what is shown on the screenshot above, congratulations - you have successfully completed setup and training of your bot ! 
 
 ## Embed your bot into Web site
