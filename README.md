@@ -12,7 +12,7 @@ Chatbot is a paltform which can be particularly useful here. You can select spec
 
 Sounds interesting ? If yes, just follow some simple steps below to create your own bot, train it on the frequently asked questions (FAQ) from the leading health organisations and make it then work on your external Web site (with template for a demo Web site provided) and internal MS Teams chats.
 
-> **Note**: Solution described here requires access to an Azure subscription. Microsoft Azure is one of many cloud platfoms, offering chatbot building and hosting capabilities. Depending on your preferences and access options, as an alternative, you may build similar solutions on top of [Amazon's Lex](https://aws.amazon.com/lex/) or [Google's Dialogflow](https://dialogflow.com/)) platforms as well.
+> **Note**: Solution described here requires access to an Azure subscription. Microsoft Azure is one of many cloud platfoms, offering chatbot building and hosting capabilities. Depending on your preferences and access options, as an alternative, you may build similar bot solutions on top of [Amazon's Lex](https://aws.amazon.com/lex/) or [Google's Dialogflow](https://dialogflow.com/) platforms as well.
 
 ## Covid-19 FAQ bot in minutes:
 Building QnA bot is extremely easy and you indeed can enable access to your knowledge base via bot in minutes.
