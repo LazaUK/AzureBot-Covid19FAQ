@@ -48,7 +48,9 @@ Building QnA bot is extremely easy and you indeed can enable access to your know
 ![Step1.15](/images/step1_15.png)
 16. You will be re-directed to your Azure subscription, where you can set the pricing tier of your Azure Bot Service to **F0** (free one) and the click "Create" button.
 ![Step1.16](/images/step1_16.png)
-17. 
+17. Once Web App Bot is deployed in Azure, you may verify its functionality by selecting "Test in Web Chat" in the left navigation bar and then typing your messages in the Test window.
+![Step1.17](/images/step1_17.png)
+If you get replies similar to what is shown on the screenshot above, congratulations - you have successfully completed setup and training of your bot ! 
 
 ## Embed your bot into Web site
 
