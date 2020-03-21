@@ -80,6 +80,12 @@ By default, Web App Bot has "Web Chat" channel activated. It means that you can 
 To do that, open your newly created Web App Bot in Azure, click "Channels" on the left navigation bar, then click "Get bot embedded  codes" and finally click "Click here to open Web Chat configuration page" link.
 ![Step2.2](/images/step2_2.png)
 
+Now click "Show" link to make one of the secret keys visible and use to replace **<YOUR_SECRET_CODE>** placeholder in provided embeded code sample. You can paste this embedded code now into the source code of your target Web site.
 ![Step2.3](/images/step2_3.png)
+
+Web sites can be built using various Web development frameworks: be it ASP.Net, Django, Angular or anything else. But surprisingly, you can build a Web site even using standard MS Office app, e.g. MS Word. To prove it, I've created a demo Web site which you can clone from this repo.
+
+Simply clone it, replace **<PUT_YOUR_SECRET_CODE>** placeholder in line # 1059 with your own secret code from your Web Chat configuration page as describe above and you will get fully functional Web site as shown on the screenshot below.
+![Step2.4](/images/step2_4.png)
 
 ## Enable your bot in MS Teams
