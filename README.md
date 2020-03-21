@@ -93,3 +93,9 @@ Web site nromally serves your external audience. But what if you want to enable 
 
 No problems at all. If you company uses MS Teams as an example, you would need to activate relevant channel in your Bot's configuration first. Open your Web App Bot resource in Azure, 
 ![Step3.1](/images/step3_1.png)
+
+
+![Step3.2](/images/step3_2.png)
+
+
+![Step3.3](/images/step3_3.png)
