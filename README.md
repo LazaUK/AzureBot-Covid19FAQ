@@ -53,5 +53,9 @@ Building QnA bot is extremely easy and you indeed can enable access to your know
 If you get replies similar to what is shown on the screenshot above, congratulations - you have successfully completed setup and training of your bot ! 
 
 ## Embed your bot into Web site
+Azure Web App Bot can communicate with external world via so called "channels". Those channels are built for the relevant messaging platforms, e.g. Skype or Telegram.
+
+By default, Web App Bot has only "Web Chat" channel activated.
+![Step2.1](/images/step2_1.png)
 
 ## Enable your bot in MS Teams
