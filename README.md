@@ -38,6 +38,8 @@ Building QnA bot is extremely easy and you indeed can enable access to your know
 ![Step1.10](/images/step1_10.png)
 11. Now, in "Step 5", you can click "Create your KB" button, to setup your knowledge base and populate it with the data from the configured sources;
 ![Step1.11](/images/step1_11.png)
+12. Once created, you will see a window like this with the content of your new KB.
+![Step1.12](/images/step1_12.png)
 
 ## Embed your bot into Web site
 
