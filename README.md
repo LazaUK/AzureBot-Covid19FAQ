@@ -91,11 +91,11 @@ Simply clone it, replace **<PUT_YOUR_SECRET_CODE>** placeholder in line # 1059 w
 ## Enable your bot in MS Teams
 Web site nromally serves your external audience. But what if you want to enable chatbot capabilities for your internal audience, e.g. employees.
 
-No problems at all. If you company uses MS Teams as an example, you would need to activate relevant channel in your Bot's configuration first. Open your Web App Bot resource in Azure, 
+No problems at all. If you company uses MS Teams as an example, you would need to activate relevant channel in your Bot's configuration first. Open your Web App Bot resource in Azure, select "Channels" option from the left navigation bar and click MS Teams icon.
 ![Step3.1](/images/step3_1.png)
 
-
+Next, press "Save" button.
 ![Step3.2](/images/step3_2.png)
 
-
+After few seconds, you should get MS Teams channel activated for your bot and shown with the "running" status in the list of available channels.
 ![Step3.3](/images/step3_3.png)
