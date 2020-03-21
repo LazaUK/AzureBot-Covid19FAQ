@@ -40,6 +40,8 @@ Building QnA bot is extremely easy and you indeed can enable access to your know
 ![Step1.11](/images/step1_11.png)
 12. Once created, you will see a window like this with the content of your new KB.
 ![Step1.12](/images/step1_12.png)
+13. 
+![Step1.13](/images/step1_13.png)
 
 ## Embed your bot into Web site
 
