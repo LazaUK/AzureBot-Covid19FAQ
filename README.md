@@ -85,7 +85,7 @@ Now click "Show" link to make one of the secret keys visible and use to replace 
 
 Web sites can be built using various Web development frameworks: be it ASP.Net, Django, Angular or anything else. But surprisingly, you can build a Web site even using standard MS Office app, e.g. MS Word. To prove it, I've created a demo Web site which you can clone from this repo.
 
-Simply clone it, replace **<PUT_YOUR_SECRET_CODE>** placeholder in line # 1059 with the secret code from your Web Chat configuration page as describe above and you will get fully functional Web page, similar to what is shown below.
+Simply clone it, replace **<PUT_YOUR_SECRET_CODE>** placeholder in line # 1059 with the secret code from your Web Chat configuration page as describe above and you will get fully functional Web page with embedded QnA Chatbot, similar to what is shown below.
 ![Step2.4](/images/step2_4.png)
 
 ## Enable your bot in MS Teams
