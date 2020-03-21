@@ -67,10 +67,12 @@ Building QnA bot is extremely easy and you indeed can enable access to your know
 17. Once Web App Bot is deployed in Azure, you may verify its functionality by selecting "Test in Web Chat" in the left navigation bar and then typing your messages in the Test window.
 ![Step1.17](/images/step1_17.png)
 
-If you get replies similar to what is shown on the screenshot above, congratulations - you have successfully completed setup and training of your bot ! 
+If you get replies similar to what is shown on the screenshot above, congratulations - you have successfully completed setup and training of your bot !
+
+Next step would be to make it accessible in your platform of choice.
 
 ## Embed your bot into Web site
-Azure Web App Bot can communicate with external world via so called "channels". Those channels are built for the relevant messaging platforms, e.g. Skype or Telegram.
+Azure Web App Bot can communicate with external world via so called "channels". Those channels are built for the relevant messaging platforms, e.g. Skype or Telegram. To find out more about supported channels, please consult Microsoft documentation [here](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-manage-channels?view=azure-bot-service-3.0).
 
 By default, Web App Bot has "Web Chat" channel activated. It means that you can easily start using it on your Web site.
 ![Step2.1](/images/step2_1.png)
