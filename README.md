@@ -46,7 +46,9 @@ Building QnA bot is extremely easy and you indeed can enable access to your know
 ![Step1.14](/images/step1_14.png)
 15. In the new window, click "Create Bot" button.
 ![Step1.15](/images/step1_15.png)
-16. You will be re-directed to your Azure subscr
+16. You will be re-directed to your Azure subscription, where you can set pricing tier of Azure Bot Service to **F0** (free one) and the click "Create" button.
+![Step1.16](/images/step1_16.png)
+17. 
 
 ## Embed your bot into Web site
 
