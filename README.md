@@ -77,7 +77,9 @@ Azure Web App Bot can communicate with external world via so called "channels". 
 By default, Web App Bot has "Web Chat" channel activated. It means that you can easily start using it on your Web site.
 ![Step2.1](/images/step2_1.png)
 
-To do that, 
+To do that, open your newly created Web App Bot in Azure, click "Channels" on the left navigation bar, then click "Get bot embedded  codes" and finally click "Click here to open Web Chat configuration page" link.
 ![Step2.2](/images/step2_2.png)
+
+![Step2.3](/images/step2_3.png)
 
 ## Enable your bot in MS Teams
