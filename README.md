@@ -42,8 +42,10 @@ Building QnA bot is extremely easy and you indeed can enable access to your know
 ![Step1.12](/images/step1_12.png)
 13. You may test bot's knowledge base, by clicking "->Test" button, then typing your question and pressing "Enter".
 ![Step1.13](/images/step1_13.png)
-14. 
+14. If happy with your bot's answers, click "Save and train", then switch to "Publish" tab and click "Publish" button.
 ![Step1.14](/images/step1_14.png)
+15. 
+![Step1.15](/images/step1_15.png)
 
 ## Embed your bot into Web site
 
