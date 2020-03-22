@@ -118,3 +118,5 @@ If successful, then you should be able to chat now with your bot directly from w
 ![Step3.8](/images/step3_8.png)
 
 ## Keep your knowledge base up-to-date:
+
+![Step3.9](/images/step3_9.png)
