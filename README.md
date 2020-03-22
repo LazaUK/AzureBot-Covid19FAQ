@@ -105,5 +105,9 @@ Now, switch to your MS Teams client, select "App Studio" from the left navigatio
 
 > **Note**: If you don't have App Studio installed, you may add it to your MS Teams client from MS Teams app studio by clicking **...** from the left navigation bar and searching for an "App Studio" app.
 
-In "Details -> All Details" section enter description for your bot and generate an App ID.
+In "1. Details -> All Details" section enter description for your bot and generate an App ID.
 ![Step3.5](/images/step3_5.png)
+
+In "2. Capabilities -> Bots" verify that you have the newly-generated App ID assigned and define the scope of your bot in MS Teams, e.g. "Personal" and "Team" for your users to chat with it directly and within target Teams.
+![Step3.6](/images/step3_6.png)
+
