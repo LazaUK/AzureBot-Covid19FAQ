@@ -99,3 +99,5 @@ Next, press "Save" button.
 
 After few seconds, you should get MS Teams channel activated for your bot and shown with the "running" status in the list of available channels.
 ![Step3.3](/images/step3_3.png)
+
+Now, switch to your MS Teams client
