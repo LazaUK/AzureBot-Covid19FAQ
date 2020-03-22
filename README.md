@@ -108,8 +108,8 @@ Now, switch to your MS Teams client, select "App Studio" from the left navigatio
 In "1. Details -> All Details" section enter description for your bot and generate an App ID.
 ![Step3.5](/images/step3_5.png)
 
-In "2. Capabilities -> Bots" verify that you have the newly-generated App ID assigned and define the scope of your bot in MS Teams, e.g. "Personal" and "Team" for your users to chat with it directly and within target Teams.
+In "2. Capabilities -> Bots" choose your Azure bot from "Existing bot" tab's drop-down list and then define its scope in MS Teams, e.g. "Personal" and "Team" for your users to chat with the bot directly and within specific teams.
 ![Step3.6](/images/step3_6.png)
 
-In "3. Finish -> Test and distribute"
+In "3. Finish -> Test and distribute", use "Install" button (if you have MS Teams administrator access) or "Download" button (to send .ZIP package with the manifest details to your MS Teams administrator) to make your bot available in your MS Teams environment.
 ![Step3.7](/images/step3_7.png)
