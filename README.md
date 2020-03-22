@@ -71,7 +71,7 @@ If you get replies similar to what is shown on the screenshot above, congratulat
 
 Next step would be to make it accessible in your platform of choice.
 
-## Embed your bot into Web site
+## Embed your bot into Web site:
 Azure Web App Bot can communicate with external world via so called "channels". Those channels are built for the relevant messaging platforms, e.g. Skype or Telegram. To find out more about supported channels, please consult Microsoft documentation [here](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-manage-channels?view=azure-bot-service-3.0).
 
 By default, Web App Bot has "Web Chat" channel activated. It means that you can easily start using it on your Web site.
@@ -88,7 +88,7 @@ Web sites can be built using various Web development frameworks: be it ASP.Net, 
 Simply clone it, replace **<PUT_YOUR_SECRET_CODE>** placeholder in line # 1059 with the secret code from your Web Chat configuration page as describe above and you will get fully functional Web page with embedded QnA Chatbot, similar to what is shown below.
 ![Step2.4](/images/step2_4.png)
 
-## Enable your bot in MS Teams
+## Enable your bot in MS Teams:
 Web site nromally serves your external audience. But what if you want to enable chatbot capabilities for your internal audience, e.g. employees.
 
 No problems at all. If you company uses MS Teams as an example, you would need to activate relevant channel in your Bot's configuration first. Open your Web App Bot resource in Azure, select "Channels" option from the left navigation bar and click MS Teams icon.
@@ -113,3 +113,8 @@ In "2. Capabilities -> Bots" choose your Azure bot from "Existing bot" tab's dro
 
 In "3. Finish -> Test and distribute", use "Install" button (if you have MS Teams administrator access) or "Download" button (to send .ZIP package with the manifest details to your MS Teams administrator) to make your bot available in your MS Teams environment.
 ![Step3.7](/images/step3_7.png)
+
+If successful, then you should be able to chat now with your bot directly from within MS Teams.
+![Step3.8](/images/step3_8.png)
+
+## Keep your knowledge base up-to-date:
