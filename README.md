@@ -105,3 +105,5 @@ Now, switch to your MS Teams client, select "App Studio" from the left navigatio
 
 > **Note**: If you don't have App Studio installed, you may add it to your MS Teams client from MS Teams app studio by clicking **...** from the left navigation bar and searching for an "App Studio" app.
 
+In "Details -> All Details" section enter description for your bot and generate an App ID.
+![Step3.5](/images/step3_5.png)
