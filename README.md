@@ -111,3 +111,5 @@ In "1. Details -> All Details" section enter description for your bot and genera
 In "2. Capabilities -> Bots" verify that you have the newly-generated App ID assigned and define the scope of your bot in MS Teams, e.g. "Personal" and "Team" for your users to chat with it directly and within target Teams.
 ![Step3.6](/images/step3_6.png)
 
+In "3. Finish -> Test and distribute"
+![Step3.7](/images/step3_7.png)
