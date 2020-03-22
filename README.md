@@ -4,15 +4,15 @@
   <img src="/images/chatbot.png">
 </p>
 
-With coronavirus pandemic now spreading across the world and, unfortunately, claiming human lives, it's really vital to provide people with the up-to-date information on the latest learnings and recommendations from the reliable health authority sources.
+With coronavirus pandemic now spreading across the world and, unfortunately, claiming human lives, it's really vital to provide people with the up-to-date information on the latest learning and recommendations from the reliable health authority sources.
 
-With certain cities or even countries now in a lockdown mode, more and more people start to practice social distancing and work from home. Social anxiety and new ways of working can be challenging during periods of uncertainty. So, affected or worried people may require advice on how to stay healthy (physically and methally), while being isolated.
+With certain cities or even countries now in a lockdown mode, more and more people start to practice social distancing and work from home. Social anxiety and new ways of working can be challenging during periods of uncertainty. So, affected or worried people may require advice on how to stay healthy (physically and mentally), while being isolated.
 
-Chatbot is a paltform which can be particularly useful here. You can select specific sources to feed its knowledge base. Make your bot operate 24 x 7. Support multiple languages. And easily activate relevant channels, to communicate with your users in the apps of their choice: be it Web interface, MS Teams, Slack, Telegram or something else.
+Chatbot is a platform which can be particularly useful here. You can select specific sources to feed its knowledge base. Make your bot operate 24 x 7. Support multiple languages. And easily activate relevant channels, to communicate with your users in the apps of their choice: be it Web interface, MS Teams, Slack, Telegram or something else.
 
 Sounds interesting ? If yes, just follow some simple steps below to create your own bot, train it on the frequently asked questions (FAQ) from the leading health organisations and make it then work on your external Web site (with template for a demo Web site provided) and internal MS Teams chats.
 
-> **Note**: Solution described here requires access to an Azure subscription. Microsoft Azure is one of many cloud platfoms, offering chatbot building and hosting capabilities. Depending on your preferences and access options, as an alternative, you may build similar bot solutions on top of [Amazon's Lex](https://aws.amazon.com/lex/) or [Google's Dialogflow](https://dialogflow.com/) platforms as well.
+> **Note**: Solution described here requires access to an Azure subscription. Microsoft Azure is one of many cloud platforms, offering chatbot building and hosting capabilities. Depending on your preferences and access options, as an alternative, you may build similar bot solutions on top of [Amazon's Lex](https://aws.amazon.com/lex/) or [Google's Dialogflow](https://dialogflow.com/) platforms as well.
 
 ## Covid-19 FAQ bot in minutes:
 Building QnA bot is extremely easy and you indeed can enable access to your knowledge base via bot in minutes.
@@ -49,19 +49,19 @@ Building QnA bot is extremely easy and you indeed can enable access to your know
 11. Now, in "Step 5", you can click "Create your KB" button, to setup your knowledge base and populate it with the data from the configured sources;
 ![Step1.11](/images/step1_11.png)
 
-12. Once created, you will see a window like this with the content of your new KB.
+12. Once created, you will see a window like this with the content of your new KB;
 ![Step1.12](/images/step1_12.png)
 
-13. You may test bot's knowledge base, by clicking "->Test" button, then typing your question and pressing "Enter".
+13. You may test bot's knowledge base, by clicking "->Test" button, then typing your question and pressing "Enter";
 ![Step1.13](/images/step1_13.png)
 
-14. If happy with your bot's answers, click "Save and train", then switch to "Publish" tab and click "Publish" button.
+14. If happy with your bot's answers, click "Save and train", then switch to "Publish" tab and click "Publish" button;
 ![Step1.14](/images/step1_14.png)
 
-15. In the new window, click "Create Bot" button.
+15. In the new window, click "Create Bot" button;
 ![Step1.15](/images/step1_15.png)
 
-16. You will be re-directed to your Azure subscription, where you can set the pricing tier of your Azure Bot Service to **F0** (free one) and the click "Create" button.
+16. You will be re-directed to your Azure subscription, where you can set the pricing tier of your Azure Bot Service to **F0** (free one) and the click "Create" button;
 ![Step1.16](/images/step1_16.png)
 
 17. Once Web App Bot is deployed in Azure, you may verify its functionality by selecting "Test in Web Chat" in the left navigation bar and then typing your messages in the Test window.
