@@ -118,5 +118,5 @@ If successful, then you should be able to chat now with your bot directly from w
 ![Step3.8](/images/step3_8.png)
 
 ## Keep your knowledge base up-to-date:
-As content on the source Web sites may change because of the latest learnings, developments and discoveries, it's important to keep your bot's knowledge base up to date. To do that, 
+As content on the source Web sites may change because of the latest learnings, developments and discoveries, it's important to keep your bot's knowledge base up to date. To do that, open your KB on [QnA Maker Web site](https://www.qnamaker.ai/), open "Settings" tab, tick "Refresh content" against relevant Web site, click "Save and train button" and then open "Publish" tab to move your changes from the test to the production index.
 ![Step3.9](/images/step3_9.png)
