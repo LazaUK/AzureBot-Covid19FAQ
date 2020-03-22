@@ -80,7 +80,7 @@ By default, Web App Bot has "Web Chat" channel activated. It means that you can 
 To do that, open your newly created Web App Bot in Azure, click "Channels" on the left navigation bar, then click "Get bot embedded  codes" and finally click "Click here to open Web Chat configuration page" link.
 ![Step2.2](/images/step2_2.png)
 
-Now click "Show" link to make one of the secret keys visible and use to replace **<YOUR_SECRET_CODE>** placeholder in provided embeded code sample. You can paste this embedded code now into the source code of your target Web site.
+Now click "Show" link to make one of the secret keys visible and use to replace **<YOUR_SECRET_CODE>** placeholder in provided embedded code sample. You can paste this embedded code now into the source code of your target Web site.
 ![Step2.3](/images/step2_3.png)
 
 Web sites can be built using various Web development frameworks: be it ASP.Net, Django, Angular or anything else. But surprisingly, you can build a Web site even using standard MS Office app, e.g. MS Word. To prove it, I've created a demo Web site which you can clone from this repo.
@@ -89,9 +89,11 @@ Simply clone it, replace **<PUT_YOUR_SECRET_CODE>** placeholder in line # 1059 w
 ![Step2.4](/images/step2_4.png)
 
 ## Enable your bot in MS Teams:
-Web site nromally serves your external audience. But what if you want to enable chatbot capabilities for your internal audience, e.g. employees.
+Web site normally serves your external audience. But what if you want to enable chatbot capabilities for your internal audience, e.g. employees?
 
-No problems at all. If you company uses MS Teams as an example, you would need to activate relevant channel in your Bot's configuration first. Open your Web App Bot resource in Azure, select "Channels" option from the left navigation bar and click MS Teams icon.
+No problems at all. If you company uses MS Teams as an example, you would need to activate relevant channel in your Bot's configuration first.
+
+Open your Web App Bot resource in Azure, select "Channels" option from the left navigation bar and click MS Teams icon.
 ![Step3.1](/images/step3_1.png)
 
 Next, press "Save" button.
@@ -118,5 +120,5 @@ If successful, then you should be able to chat now with your bot directly from w
 ![Step3.8](/images/step3_8.png)
 
 ## Keep your knowledge base up-to-date:
-As content on the source Web sites may change because of the latest learnings, developments and discoveries, it's important to keep your bot's knowledge base up to date. To do that, open your KB on [QnA Maker Web site](https://www.qnamaker.ai/), open "Settings" tab, tick "Refresh content" against relevant Web site, click "Save and train button" and then open "Publish" tab to move your changes from the test to the production index.
+As content on the source Web sites may change because of the latest learning, developments and discoveries, it's important to keep your bot's knowledge base up to date. To do that, open your KB on [QnA Maker Web site](https://www.qnamaker.ai/), open "Settings" tab, tick "Refresh content" against relevant Web site, click "Save and train button" and then open "Publish" tab to move your changes from the test to the production index.
 ![Step3.9](/images/step3_9.png)
