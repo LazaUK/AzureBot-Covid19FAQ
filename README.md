@@ -101,5 +101,7 @@ After few seconds, you should get MS Teams channel activated for your bot and sh
 ![Step3.3](/images/step3_3.png)
 
 Now, switch to your MS Teams client, select "App Studio" from the left navigation bar, click "Manifest Editor" tab and then click "Create a new app" button.
-> **Note**: If you don't have App Studio installed, you may add it to your MS Teams client from MS Teams app studio by clicking **...** from the left navigation bar and searching for an "App Studio" app.
 ![Step3.4](/images/step3_4.png)
+
+> **Note**: If you don't have App Studio installed, you may add it to your MS Teams client from MS Teams app studio by clicking **...** from the left navigation bar and searching for an "App Studio" app.
+
